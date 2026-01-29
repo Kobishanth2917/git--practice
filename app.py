@@ -1,2 +1,5 @@
 app.py
-print("Hello Git from VS Code")
+def add(a, b):
+    return a + b
+
+print(add(5, 3))
